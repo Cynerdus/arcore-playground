@@ -61,6 +61,8 @@ dependencies {
     implementation(libs.androidx.material3)
 
     implementation(libs.google.ar.core)
+    implementation(libs.androidx.appcompat)
+    implementation(libs.sceneform.ux)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
